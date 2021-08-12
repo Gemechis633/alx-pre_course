@@ -1,0 +1,1 @@
+This file is about 0x02_git Project in ALX SE Training.
